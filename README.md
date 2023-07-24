@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/antarsidgi/)
 
-- 💬 Ask me about ** React, Laravel, Vue, APIs, PHP, JavaScript, Strapi, SEO **
+- 💬 Ask me about **React, Laravel, Vue, APIs, PHP, JavaScript, Strapi, SEO**
 
 - 📫 How to reach me **AntarSidgi@gmail.com**
 
